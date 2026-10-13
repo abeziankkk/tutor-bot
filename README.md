@@ -27,7 +27,7 @@
 1. Установить зависимости:
 
 ```bash
-pip install python-telegram-bot python-dotenv
+pip install -r requirements.txt
 ```
 
 2. В корне проекта создать файл `.env`:
